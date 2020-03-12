@@ -1,0 +1,18 @@
+Deployment with AWS
+
+EC2 instance - Elastic computing (pay as you use)
+
+Use Python to automate the process using scripts for:
+CI/CD
+-updating
+-deployment
+-installing
+-variables such as connections and or rules (traffic inbound or outbound)
+
+
+Prerequisits before starting:
+install Python locally
+install git
+
+clone the script/s from github
+Use a BASH script to instanciate variables.
